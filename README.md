@@ -1,6 +1,6 @@
 # NeetCode Solutions — @imharsh044
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-wef4wdj2`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
 
@@ -13,9 +13,9 @@
 ## How GitHub Sync works
 
 1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+2. **Auto-commit** — Every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
+3. **Bulk Sync** — Push all your past solutions at once from the GitHub settings page.
+4. **Manual sync** — From the submission history panel on any problem page, sync or remove individual submissions.
 
 ---
 
